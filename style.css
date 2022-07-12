@@ -1,0 +1,287 @@
+body{
+    background-color: black;
+    margin: 0px;
+    padding: 0px;
+}
+
+
+.tFundo{
+
+    position: absolute;
+    width: 1424px;
+    height: 570px;
+    background-color: rgba(0, 0, 0, 0.6);
+  
+}
+
+#fundo >img{ 
+
+    padding-top: 0px;
+    border-top: 0px;
+    margin-top: 0px;
+    width: 1424px;
+    height: 550px;
+
+}
+
+#logo{   
+
+   position: absolute;
+   width: 100%;
+   top: 50px;
+   left: 30px;
+}
+
+#linguagem{
+
+    position: absolute;
+    top: 50px;
+    right: 40px;
+    color: white;   
+       
+}
+
+#linguagem button{
+
+    
+    background-color: red;
+    width: 100px;
+    height: 30px;
+    border-radius: 10px;
+    border: null;
+}
+
+#linguagem select{
+
+    
+    width: 100px;
+    height: 28px;
+    border: null;
+}
+
+
+#apresentacao {
+
+    position: absolute;
+    text-align: center;
+    color: white;
+    top: 110px;
+    left: 400px;
+    font-size: 30px;
+    
+}
+
+#apresentacao p {
+    font-size: 25px;
+}
+
+#apresentacao label {
+    font-size: 20px;
+}
+
+#apresentacao input {
+    border: 0px;
+    padding: 0px;
+    margin: 0px;
+    width: 442px ;
+    height: 50px;
+    font-size: 18px;
+  
+}
+
+#apresentacao button {
+
+    background-color: red;
+    color: white;
+    font-size: 20px;
+    border: 0px;
+    padding: 0px;
+    margin: 0px;  
+    width: 140px ;
+    height: 50px;
+}
+
+
+.borda{ 
+
+    width: 1425px;
+    height: 7px;
+    background-color: rgba(128, 128, 128, 0.5);
+
+}
+
+
+.aproveite{
+    border: 100px;
+    margin-left: 150px;
+    margin-top: 100px;
+    color: white;
+        
+}
+
+.aproveite div{
+
+margin-top: -250px;
+padding-left: 700px;
+}
+
+
+.filmes{
+
+    display: inline-block;
+    border: 100px;
+    margin-left: 150px;
+    margin-top: 20px;    
+    color: white;
+}
+
+.filmes div{
+    margin-top: -250px;
+    padding-left: 700px;
+    margin-bottom: 110px;
+}
+
+.assista{
+
+    border: 100px;
+    margin-left: 150px;
+    margin-top: 150px;
+    color: white;
+}
+
+.assista div{
+    margin-top: -250px;
+    padding-left: 700px;
+}
+
+
+.crianca{
+    display: inline-block;
+    border: 100px;
+    margin-left: 150px;
+    margin-top: 20px;    
+    color: white;
+  
+}
+.crianca div{
+    margin-top: -490px;
+    padding-left: 700px;
+    margin-bottom: 190px;  
+}
+
+.titulos{
+    font-size: 60px;
+}
+
+.paragrafos{
+    font-size: 30px;
+}
+
+.perguntas{
+    color: white;
+    font-size: 60px;
+    text-align: center;
+}
+
+
+
+
+#apresentacao2{
+
+    margin-top: 70px;
+    margin-left: 30%;
+    margin-bottom: 150px;
+}
+
+
+#apresentacao2 label {
+    font-size: 20px;
+    color: white;
+    text-align: center;
+    margin-left: -5px;
+}
+
+#apresentacao2 input {
+    border: 0px;
+    padding: 0px;
+    margin: 0px;
+    width: 442px ;
+    height: 50px;
+    font-size: 18px;
+  
+}
+
+#apresentacao2 button {
+
+    background-color: red;
+    color: white;
+    font-size: 20px;
+    border: 0px;
+    padding: 0px;
+    margin: 0px;  
+    width: 140px ;
+    height: 50px;
+}
+
+
+.duvidas{
+
+    margin-top: 80px;
+    margin-left: 20%;
+    color: #737373;
+    font-size: 20px;
+}
+
+.rodape1{
+    
+    color: #737373;
+    margin-left: 20%;
+    padding: 5px;
+    font-size: 15px;
+}
+
+.rodape2{
+    color: #737373;
+    margin-top: -180px;
+    margin-left: 38%;
+    font-size: 15px;
+}
+
+.rodape3{
+    color: #737373;
+    margin-top: -130px;
+    margin-left: 52%;
+    font-size: 15px;
+}
+
+.rodape4{
+    color: #737373;
+    margin-top: -130px;
+    margin-left: 68%;
+    font-size: 15px;
+}
+
+
+.linguagemRodape{
+
+    background-color: black;
+    color: #737373;
+    margin-top: 5%;
+    margin-left: 20%;
+    margin-bottom: 30px;
+    width: 105px;
+    height: 50px;
+    border: null;
+    font-size: 17px;
+}
+
+.netflix{
+    color: #737373;
+    margin-top: -10px;
+    margin-left: 20%;
+    margin-bottom: 40px;
+    font-size: 15px;
+    
+}
+
+
